@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+
 """ holds class User"""
 from hashlib import md5
 from sqlalchemy import Column, String
