@@ -55,3 +55,5 @@ destroy: <class name>.destroy(<id>)
 update: <class name>.update(<id>, <attribute name>, <attribute value>)
 
 update with dictionary: <class name>.update(<id>, <dictionary representation>)
+
+Author: Sley
